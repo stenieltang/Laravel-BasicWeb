@@ -1,0 +1,22 @@
+.jumbotron-aboutus {
+  padding-top: 6rem;
+  padding-bottom: 3rem; 
+  margin-bottom: 0;
+  background-color: #fff;
+  background-image: url('/images/homepage.jpeg');
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: 100%;
+  background-size: cover;
+}
+
+.container.aboutus {
+    padding-top: 3rem;
+}
+h1.display-3 {
+    color: white;
+    font-weight: 400;
+}
+.container.text-right {
+    color: white;
+}

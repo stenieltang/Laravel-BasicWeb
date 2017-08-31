@@ -14,6 +14,7 @@
      <link rel="stylesheet" href="/css/carousel.css">
      <link rel="stylesheet" href="/css/home.css">
      <link rel="stylesheet" href="/css/footer.css">
+     <link rel="stylesheet" href="/css/about.css">
 
   </head>
   <body class="data1">
